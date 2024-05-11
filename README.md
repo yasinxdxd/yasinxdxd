@@ -1,17 +1,18 @@
-[![yasinxdxd's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinxdxd&show_icons=true&theme=gruvbox))](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinxdxd&layout=compact&exclude_repo=NNCars)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**yasinxdxd/yasinxdxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="typing-demo">
+            <span class="func">print</span>
+            <span class="paran">(</span>
+            <span class="text">"Hello, World!"</span>
+            <span class="paran">)</span>
+        </div>
+    </div>
+</body>
+</html>`
